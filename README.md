@@ -1,134 +1,94 @@
-Create a complete professional website called "Phantom Reaper AI".
+# 🚀 Phantom Reaper AI
 
-DESIGN:
-- Modern fintech SaaS style
-- Dark black background
-- Neon green accents (#00ff88)
-- Fully responsive for mobile and desktop
-- Premium animations and hover effects
-- Professional typography
-- Sticky navigation bar
+## Trade Like Institutions. Not Retail Traders.
 
-NAVIGATION:
-- Home
-- Features
-- Swing & Scalper Bot
-- Pricing
-- Testimonials
-- FAQ
-- Contact
+Phantom Reaper AI is an advanced automated Forex trading solution designed to analyze market structure, liquidity, volatility, and risk management with precision. Built for modern traders, the system combines intelligent automation with disciplined execution to help users operate more efficiently in the financial markets.
 
-HERO SECTION:
-Title:
-"Trade Like Institutions. Not Retail Traders."
+---
 
-Subtitle:
-"Phantom Reaper AI is an advanced automated Forex trading system built to analyze market structure, liquidity, volatility, and risk management with precision."
+## 🌟 Key Features
 
-Buttons:
-- Get Started
-- Chat on WhatsApp
-
-WhatsApp Number:
-+256748758798
-
-FEATURES SECTION:
-- Smart Entries
+- Smart Market Analysis
 - Liquidity Detection
 - Multi-Timeframe Analysis
-- Drawdown Protection
-- Risk Management Engine
-- MT5 Compatible
-- VPS Friendly
 - Automated Trade Execution
+- Risk Management Engine
+- Drawdown Protection
+- VPS Compatible
+- MT5 Compatible
+- Swing Trading Module
+- Scalper Trading Module
+- AI Strategy Adaptation
 
-SWING & SCALPER SECTION:
-Title:
-"Dual Trading Engine"
+---
 
-Scalper Mode:
-- M1 to M5 trading
-- Fast execution
-- Volatility detection
+## ⚡ Dual Strategy Engine
 
-Swing Mode:
-- H1 to H4 trading
-- Trend following
-- Structure analysis
+### Scalper Mode (M1–M5)
+- Fast trade execution
+- Intraday opportunities
+- Volatility-focused entries
+- Active market participation
 
-AI Switching:
-- Automatic strategy adaptation
-- Market condition analysis
+### Swing Mode (H1–H4)
+- Trend-following logic
+- Structure-based entries
+- Larger market movements
+- Improved risk-to-reward potential
 
-PERFORMANCE SECTION:
-Create professional dashboard cards:
-- Real-Time Monitoring
-- Market Analysis
-- Risk Control
-- Performance Tracking
+### AI Smart Switching
+The system is designed to adapt between trading styles based on market conditions, helping traders maintain flexibility across different environments.
 
-PRICING SECTION:
+---
 
-STARTER PLAN:
-$200
-- 1 License
-- Basic Support
-- Core AI Features
+## 💰 Pricing Plans
 
-PRO PLAN:
-$350
-- 2 Licenses
-- Priority Support
+### Starter Plan — $200
+- Core Trading System
+- Setup Guide
+- Standard Support
+
+### Pro Plan — $350
 - Advanced Features
+- Priority Support
+- Multi-Timeframe Logic
 
-ELITE PLAN:
-$500
-- Full Access
+### Elite Plan — $500
+- Full System Access
 - VIP Support
-- Premium Features
-- Future Updates
+- Priority Updates
 
-TESTIMONIALS:
-Create 3 professional testimonial cards.
+---
 
-FAQ:
-- Is it automated?
-- Does it work on MT5?
-- Do I need trading experience?
-- Is support included?
+## 🛠 Platform Support
 
-CONTACT SECTION:
-Title:
-"Need Assistance?"
+- MetaTrader 5 (MT5)
+- VPS Compatible
+- Multi-Pair Trading
+- Automated Execution
 
-Text:
-"Chat with our team directly on WhatsApp for setup assistance, licensing, and support."
+---
 
-Include:
-- WhatsApp button
-- Email placeholder
-- Contact information
+## 📞 Contact & Support
 
-FOOTER:
-Copyright:
-© 2026 Phantom Reaper AI
+Need assistance with setup, licensing, or support?
 
-Add:
-- Social media placeholders
-- Privacy Policy
-- Terms of Service
+**WhatsApp:** +256 748 758 798
 
-IMAGES:
-Use placeholders for:
-- Logo
-- Trading dashboard
-- Trading charts
-- Results screenshots
+For inquiries and onboarding, contact us directly through WhatsApp.
 
-TECHNICAL:
-Generate a complete single-file website using:
-- HTML
-- CSS
-- JavaScript
+---
 
-Everything must be inside one index.html file.
+## 🌐 Official Website
+
+This repository contains the official Phantom Reaper AI website and landing page.
+
+---
+
+## ⚠ Disclaimer
+
+Trading foreign exchange (Forex) and other financial instruments involves risk. Past performance does not guarantee future results. Users should understand the risks involved before trading live funds.
+
+---
+
+© 2026 Phantom Reaper AI. All Rights Reserved.
